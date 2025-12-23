@@ -612,5 +612,6 @@ const page = ({ onUploaded }: props) => {
 
     )
   }
+}
 
-  export default page
+export default page
